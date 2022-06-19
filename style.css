@@ -57,6 +57,12 @@ body {
   margin-top: 50px;
 }
 
+.button1:hover {
+  cursor: pointer;
+  background-color: rgb(34, 29, 29);
+  color: rgb(214, 52, 79);
+  border: 3px solid rgb(214, 52, 79);
+}
 .intro .imgbox {
   margin-left: 300px;
   margin-right: 0;
